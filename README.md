@@ -103,9 +103,4 @@ Estas son las reglas que cumple el programa según la guía del parcial:
 - Validaciones: Regex para email y formato de ISBN  
 - Streams: para ordenar, filtrar y generar reportes
 
----
 
-##  Cómo ejecutar
-
-1. Abre la carpeta `src` en VS Code o en tu entorno.  
-2. Compila el programa con:
